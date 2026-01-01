@@ -12,11 +12,17 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Parth Londhe",
-  description: "Get a free website audit and see how your design, speed, and usability can be improved.",
+  title: "Fast Frontend Web Development Services | React & Next.js",
+  description:
+    "I build fast, modern, mobile-friendly websites using React and Next.js. Focused on performance, clean design, and better user experience.",
+  verification: {
+    google: "xaiS-ThmQ0IWXZ2cvs5L4yUT9IgMpg9scBCFXVki5MA",
+  },
+   robots: {
+    index: true,
+    follow: true,
+  },
 };
-
-<meta name="google-site-verification" content="xaiS-ThmQ0IWXZ2cvs5L4yUT9IgMpg9scBCFXVki5MA" />
 
 export default function RootLayout({ children }) {
   return (
