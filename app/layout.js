@@ -16,6 +16,8 @@ export const metadata = {
   description: "Get a free website audit and see how your design, speed, and usability can be improved.",
 };
 
+<meta name="google-site-verification" content="xaiS-ThmQ0IWXZ2cvs5L4yUT9IgMpg9scBCFXVki5MA" />
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
