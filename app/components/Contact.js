@@ -25,22 +25,22 @@ export default function Contact() {
             name="name"
             required
             placeholder="Your name"
-            className="w-full px-4 py-3 bg-black border border-white/20 rounded-lg text-white focus:outline-none focus:border-blue-500"
+            className="w-full px-4 py-3 bg-white border border-white/20 rounded-lg text-black focus:outline-none focus:border-blue-500"
           />
 
-          <input
+          <input 
             type="email"
             name="email"
             required
             placeholder="Your email"
-            className="w-full px-4 py-3 bg-black border border-white/20 rounded-lg text-white focus:outline-none focus:border-blue-500"
+            className="w-full px-4 py-3 bg-white border border-white/20 rounded-lg text-black focus:outline-none focus:border-blue-500"
           />
 
           <input
             type="text"
             name="website"
             placeholder="Your website (optional)"
-            className="w-full px-4 py-3 bg-black border border-white/20 rounded-lg text-white focus:outline-none focus:border-blue-500"
+            className="w-full px-4 py-3 bg-white border border-white/20 rounded-lg text-black focus:outline-none focus:border-blue-500"
           />
 
           <button
